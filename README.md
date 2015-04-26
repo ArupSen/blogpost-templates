@@ -1,4 +1,4 @@
 blogpost-templates
 ==================
 
-For all my repeated blog posts
+April report and ride report for my first 300km

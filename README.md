@@ -1,4 +1,4 @@
 blogpost-templates
 ==================
 
-For all my repeated blog posts
+This is the June 2015 branch

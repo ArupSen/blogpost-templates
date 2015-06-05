@@ -7,3 +7,4 @@ Posts this month:
 * Roller training reports
 * Fountain pen reviews
 * Blog theme update
+* Motivation, scheduling and the natural urge

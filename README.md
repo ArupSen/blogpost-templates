@@ -1,4 +1,7 @@
 blogpost-templates
 ==================
 
-For all my repeated blog posts
+##This month: July 2015
+* The usual monthly report
+* Dunwich Dynamo report
+* More roller training reports

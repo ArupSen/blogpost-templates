@@ -1,4 +1,6 @@
 blogpost-templates
 ==================
 
-For all my repeated blog posts
+November 2015 branch containing:
+* Monthly report
+* Chilterns Pub Crawl Audax report

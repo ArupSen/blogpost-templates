@@ -1,4 +1,7 @@
 blogpost-templates
 ==================
 
-For all my repeated blog posts
+The December 2015 branch which includes:
+* The usual monthly report with month specific goals
+* South of Bucks Winter Warmer Audax report
+* Computer upgrade considerations post

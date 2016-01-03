@@ -1,4 +1,4 @@
-blogpost-templates
+January 2016 branch includes
 ==================
 
-For all my repeated blog posts
+* Monthly report

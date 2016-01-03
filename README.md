@@ -7,3 +7,4 @@ The December 2015 branch which includes:
 * Computer upgrade considerations post
 * Review of 2015
 * Goals for 2016
+* Christmas London to Brighton report

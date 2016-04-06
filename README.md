@@ -1,4 +1,5 @@
 blogpost-templates
 ==================
 
-For all my repeated blog posts
+The April 2016 branch containing:
+* The monthly report

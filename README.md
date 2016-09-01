@@ -1,4 +1,4 @@
-blogpost-templates
+The August 2016 branch
 ==================
 
-For all my repeated blog posts
+*Monthly Report
